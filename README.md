@@ -11,5 +11,5 @@ Here are some ideas to know about sonic0002:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- Github Stats
+# Github Stats
 [![sonic0002's github stats](https://github-readme-stats.vercel.app/api?username=sonic0002)](https://github.com/sonic0002/github-readme-stats)
