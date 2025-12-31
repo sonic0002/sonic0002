@@ -10,6 +10,3 @@ Here are some ideas to know about sonic0002:
 - 📫 How to reach me: pxlet.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-# Github Stats
-[![sonic0002's github stats](https://github-readme-stats.vercel.app/api?username=sonic0002)](https://github.com/sonic0002/github-readme-stats)
